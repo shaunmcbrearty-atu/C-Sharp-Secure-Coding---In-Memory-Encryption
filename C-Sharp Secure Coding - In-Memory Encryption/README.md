@@ -1,1 +1,0 @@
-<a href="https://www.nuget.org/packages/System.Security.Cryptography.ProtectedData/7.0.1?_src=template">System.Security.Cryptography.ProtectedData</a>
